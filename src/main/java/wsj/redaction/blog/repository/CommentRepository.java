@@ -1,6 +1,6 @@
-package lt.codeacademy.blog.repository;
+package wsj.redaction.blog.repository;
 
-import lt.codeacademy.blog.entity.Comment;
+import wsj.redaction.blog.entity.Comment;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface CommentRepository extends JpaRepository<Comment, Long> {

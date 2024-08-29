@@ -1,10 +1,10 @@
-package lt.codeacademy.blog.utils.factory;
+package wsj.redaction.blog.utils.factory;
 
 import com.thedeanda.lorem.Lorem;
 import com.thedeanda.lorem.LoremIpsum;
-import lt.codeacademy.blog.entity.BlogUser;
-import lt.codeacademy.blog.entity.Comment;
-import lt.codeacademy.blog.entity.Post;
+import wsj.redaction.blog.entity.BlogUser;
+import wsj.redaction.blog.entity.Comment;
+import wsj.redaction.blog.entity.Post;
 import org.ajbrown.namemachine.Name;
 import org.ajbrown.namemachine.NameGenerator;
 

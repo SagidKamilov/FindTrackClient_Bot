@@ -1,6 +1,6 @@
-package lt.codeacademy.blog.security;
+package wsj.redaction.blog.security;
 
-import lt.codeacademy.blog.service.UserDetailsServiceImpl;
+import wsj.redaction.blog.service.UserDetailsServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
 import org.springframework.security.core.context.SecurityContextHolder;

@@ -1,6 +1,6 @@
-package lt.codeacademy.blog.repository;
+package wsj.redaction.blog.repository;
 
-import lt.codeacademy.blog.utils.factory.BlogFactory;
+import wsj.redaction.blog.utils.factory.BlogFactory;
 import org.springframework.stereotype.Component;
 
 import javax.annotation.PostConstruct;

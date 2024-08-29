@@ -1,4 +1,4 @@
-package lt.codeacademy.blog.entity;
+package wsj.redaction.blog.entity;
 
 import javax.persistence.CascadeType;
 import javax.persistence.Column;

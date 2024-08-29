@@ -1,11 +1,11 @@
-package lt.codeacademy.blog.controller;
+package wsj.redaction.blog.controller;
 
 import com.fasterxml.jackson.databind.JsonNode;
-import lt.codeacademy.blog.dto.ContentRequest;
-import lt.codeacademy.blog.entity.Comment;
-import lt.codeacademy.blog.repository.CommentRepository;
-import lt.codeacademy.blog.repository.PostRepository;
-import lt.codeacademy.blog.service.AuthService;
+import wsj.redaction.blog.dto.ContentRequest;
+import wsj.redaction.blog.entity.Comment;
+import wsj.redaction.blog.repository.CommentRepository;
+import wsj.redaction.blog.repository.PostRepository;
+import wsj.redaction.blog.service.AuthService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;

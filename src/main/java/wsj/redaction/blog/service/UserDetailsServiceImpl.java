@@ -1,7 +1,7 @@
-package lt.codeacademy.blog.service;
+package wsj.redaction.blog.service;
 
-import lt.codeacademy.blog.entity.BlogUser;
-import lt.codeacademy.blog.repository.BlogUserRepository;
+import wsj.redaction.blog.entity.BlogUser;
+import wsj.redaction.blog.repository.BlogUserRepository;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.User;

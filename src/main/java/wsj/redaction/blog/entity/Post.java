@@ -1,4 +1,4 @@
-package lt.codeacademy.blog.entity;
+package wsj.redaction.blog.entity;
 
 
 import com.fasterxml.jackson.databind.JsonNode;

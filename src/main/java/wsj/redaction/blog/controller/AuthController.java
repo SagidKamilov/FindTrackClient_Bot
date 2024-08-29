@@ -1,10 +1,10 @@
-package lt.codeacademy.blog.controller;
+package wsj.redaction.blog.controller;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.node.ObjectNode;
-import lt.codeacademy.blog.dto.AuthRequest;
-import lt.codeacademy.blog.service.AuthService;
+import wsj.redaction.blog.dto.AuthRequest;
+import wsj.redaction.blog.service.AuthService;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;

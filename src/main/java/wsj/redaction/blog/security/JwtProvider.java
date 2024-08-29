@@ -1,4 +1,4 @@
-package lt.codeacademy.blog.security;
+package wsj.redaction.blog.security;
 
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;

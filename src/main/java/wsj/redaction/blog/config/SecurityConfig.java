@@ -1,7 +1,7 @@
-package lt.codeacademy.blog.config;
+package wsj.redaction.blog.config;
 
-import lt.codeacademy.blog.security.JwtAuthenticationFilter;
-import lt.codeacademy.blog.service.UserDetailsServiceImpl;
+import wsj.redaction.blog.security.JwtAuthenticationFilter;
+import wsj.redaction.blog.service.UserDetailsServiceImpl;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.authentication.AuthenticationManager;

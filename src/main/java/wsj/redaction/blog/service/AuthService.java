@@ -1,12 +1,12 @@
-package lt.codeacademy.blog.service;
+package wsj.redaction.blog.service;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.node.ObjectNode;
-import lt.codeacademy.blog.dto.AuthRequest;
-import lt.codeacademy.blog.entity.BlogUser;
-import lt.codeacademy.blog.repository.BlogUserRepository;
-import lt.codeacademy.blog.security.JwtProvider;
+import wsj.redaction.blog.dto.AuthRequest;
+import wsj.redaction.blog.entity.BlogUser;
+import wsj.redaction.blog.repository.BlogUserRepository;
+import wsj.redaction.blog.security.JwtProvider;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.authentication.AuthenticationManager;

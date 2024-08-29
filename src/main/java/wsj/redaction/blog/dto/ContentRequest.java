@@ -1,4 +1,4 @@
-package lt.codeacademy.blog.dto;
+package wsj.redaction.blog.dto;
 
 public class ContentRequest {
     private Long id;

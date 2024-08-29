@@ -1,6 +1,6 @@
-package lt.codeacademy.blog.repository;
+package wsj.redaction.blog.repository;
 
-import lt.codeacademy.blog.entity.BlogUser;
+import wsj.redaction.blog.entity.BlogUser;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
